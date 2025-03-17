@@ -17,7 +17,7 @@ basic.forever(function () {
 ```
 ## Étape 2
 
-Ajoute le bloc montrez Leds dans le bloc toujours
+Ajoute le bloc montrez LEDs dans le bloc toujours
 #### Dessine le corps du danseur.
 
 ```blocks
@@ -56,7 +56,7 @@ basic.forever(function () {
 
 ## Étape 4
 
-Duplique le bloc montrez Leds (bouton droit de la souris)
+Duplique le bloc montrez LEDs (bouton droit de la souris)
 #### Modifie la position des bras du danseur
 
 ```blocks
