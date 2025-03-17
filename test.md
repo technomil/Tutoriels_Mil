@@ -1,8 +1,8 @@
 # Mon premier tuto
 
 ## @showdialog
-## Ce tutoriel a été créé par
-Émilie LD
+## Crée une animation
+Supprime le bloc "Au démarrage"
 
 ## Étape 1
 
@@ -17,7 +17,7 @@ basic.forever(function () {
 ```
 ## Étape 2
 
-Ajoute le bloc Montrez Leds dans le bloc répétez
+Ajoute le bloc montrez Leds dans le bloc toujours
 #### Dessine le corps du danseur.
 
 ```blocks
@@ -36,7 +36,8 @@ basic.forever(function () {
 
 ## Étape 3
 
-Ajoute le bloc Pause sous le bloc Toujours
+Ajoute le bloc Pause sous le bloc montrez leds
+#### Conserve le chiffre 4
 
 ```blocks
 
@@ -55,7 +56,7 @@ basic.forever(function () {
 
 ## Étape 4
 
-Duplique le bloc Montrez Leds
+Duplique le bloc montrez Leds (bouton droit de la souris)
 #### Modifie la position des bras du danseur
 
 ```blocks
