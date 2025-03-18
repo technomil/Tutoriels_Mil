@@ -1,12 +1,20 @@
-# Mon premier tuto
+# Danseur endiablé
+
+Programme le micro:bit pour qu'un danseur s'anime.
 
 ## @showdialog
-## Crée une animation
-Supprime le bloc "Au démarrage"
+## Avant de commencer
+Supprime le bloc Au démarrage.
+#### Glisse-le vers la gauche, tu verras apparaître une poubelle
+
+```blocks
+basic.forever(function ()
+})
+```
 
 ## Étape 1
 
-Ajoute le bloc répéter dans le bloc toujours
+Ajoute le bloc répéter dans le bloc toujours.
 
  ```blocks
 basic.forever(function () {
@@ -17,7 +25,7 @@ basic.forever(function () {
 ```
 ## Étape 2
 
-Ajoute le bloc montrez LEDs dans le bloc toujours
+Ajoute le bloc montrez LEDs dans le bloc toujours.
 #### Dessine le corps du danseur.
 
 ```blocks
@@ -36,7 +44,7 @@ basic.forever(function () {
 
 ## Étape 3
 
-Ajoute le bloc Pause sous le bloc montrez leds
+Ajoute le bloc Pause sous le bloc montrez LEDs.
 #### Conserve le chiffre 4
 
 ```blocks
@@ -56,7 +64,7 @@ basic.forever(function () {
 
 ## Étape 4
 
-Duplique le bloc montrez LEDs (bouton droit de la souris)
+Duplique le bloc montrez LEDs (bouton droit de la souris).
 #### Modifie la position des bras du danseur
 
 ```blocks
