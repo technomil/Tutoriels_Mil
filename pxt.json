@@ -12,7 +12,8 @@
         "README.md",
         "test.md",
         "_locales/fr/test.md",
-        "monpremiertuto.md"
+        "monpremiertuto.md",
+        "test2.md"
     ],
     "testFiles": [
         "test.ts"

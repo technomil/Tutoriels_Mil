@@ -1,16 +1,9 @@
-# Danseur endiablé
-
-Programme le micro:bit pour qu'un danseur s'anime
+# Mon premier tuto
 
 ## @showdialog
-## Avant de commencer
+## Crée une animation
 Supprime le bloc "Au démarrage"
-#### Glisse-le vers la gauche, tu verras apparaître une poubelle
 
-```blocks
-basic.forever(function ()
-})
-```
 ## Étape 1
 
 Ajoute le bloc répéter dans le bloc toujours
@@ -93,5 +86,3 @@ basic.forever(function () {
 ```
 
 ## Terminé! 
-
-Bravo! Tu as réussi!
