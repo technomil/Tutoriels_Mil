@@ -1,6 +1,6 @@
 # Danseur endiablé!
 
-Programme le micro:bit pour qu'un danseur s'anime.
+Programme le micro:bit pour qu'un danseur s'anime
 
 ## @showdialog
 ## Avant de commencer
