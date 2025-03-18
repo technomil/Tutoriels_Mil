@@ -14,7 +14,7 @@ basic.forever(function ()
 
 ## Étape 1
 
-Ajoute le bloc répéter dans le bloc toujours.
+Ajoute le bloc répéter dans le bloc ``||basic:toujours||``.
 
  ```blocks
 basic.forever(function () {
@@ -25,7 +25,7 @@ basic.forever(function () {
 ```
 ## Étape 2
 
-Ajoute le bloc montrez LEDs dans le bloc toujours.
+Ajoute le bloc ``||basic:montrez LEDs||`` dans le bloc ``||basic:toujours||``.
 #### Dessine le corps du danseur.
 
 ```blocks
@@ -44,7 +44,7 @@ basic.forever(function () {
 
 ## Étape 3
 
-Ajoute le bloc Pause sous le bloc montrez LEDs.
+Ajoute le bloc ``||basic:pause||`` sous le bloc ``||basic:montrez LEDs||``.
 #### Conserve le chiffre 4
 
 ```blocks
@@ -64,7 +64,7 @@ basic.forever(function () {
 
 ## Étape 4
 
-Duplique le bloc montrez LEDs (bouton droit de la souris).
+Duplique le bloc ``||basic:montrez LEDs||`` (bouton droit de la souris).
 #### Modifie la position des bras du danseur
 
 ```blocks
