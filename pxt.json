@@ -14,7 +14,9 @@
         "test.md",
         "_locales/fr/test.md",
         "monpremiertuto.md",
-        "monpremiertuto_danseur.md"
+        "monpremiertuto_danseur.md",
+        "_locales/fr/monpremiertuto_danseur.md",
+        "monpremiertutoO.md"
     ],
     "testFiles": [
         "test.ts"
