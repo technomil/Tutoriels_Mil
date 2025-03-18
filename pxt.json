@@ -13,7 +13,8 @@
         "README.md",
         "test.md",
         "_locales/fr/test.md",
-        "monpremiertuto.md"
+        "monpremiertuto.md",
+        "monpremiertuto_danseur.md"
     ],
     "testFiles": [
         "test.ts"
