@@ -4,7 +4,7 @@ Programme le micro:bit pour qu'un danseur s'anime
 
 ## @showdialog
 ## Avant de commencer
-Supprime le bloc "Au démarrage"
+Supprime le bloc ``||basic:au démarrage||``
 #### Glisse-le vers la gauche, tu verras apparaître une poubelle
 
 ```blocks
@@ -13,7 +13,7 @@ basic.forever(function ()
 ```
 ## Étape 1
 
-Ajoute le bloc répéter dans le bloc toujours
+Ajoute le bloc ``||basic:montrer LEDs||`` dans le bloc ``||function:toujours||``
 
  ```blocks
 basic.forever(function () {
